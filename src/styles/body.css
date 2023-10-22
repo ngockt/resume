@@ -1,0 +1,22 @@
+
+.body-div{
+    background-color: lightslategray;
+    flex: 1;
+    display: flex;
+    flex-direction: row;
+}
+
+.body-left-div {
+    background-color: lightgreen;
+    display: flex;
+    flex-direction: column;
+    flex: 2;
+}
+
+.body-right-div {
+    background-color: lightskyblue;
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+}
+

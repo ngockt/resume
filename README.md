@@ -1,1 +1,2 @@
-# resume
+# TODO
+## define format of project.md, education.md, ...

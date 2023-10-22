@@ -1,0 +1,11 @@
+.projects-div {
+    background-color: lightseagreen;
+    display: flex;
+    flex-direction: column;
+    
+}
+
+.project-div {
+    background-color: lightskyblue;
+    height: 100px;
+}

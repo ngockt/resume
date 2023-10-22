@@ -1,0 +1,15 @@
+div {
+    padding: 10px;
+    column-gap: 6px;
+    row-gap: 6px;
+}
+p {
+    font-family: Roboto;
+}
+.page-layout-div {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 512px;
+    background-color: lightgray;
+}

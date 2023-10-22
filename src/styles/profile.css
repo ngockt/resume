@@ -1,0 +1,18 @@
+.profile-image-div {
+    background-color: aqua;
+    flex: 1;
+}
+
+.profile-info-div {
+    background-color: yellowgreen;
+    flex: 2;
+}
+
+.profile-image {
+    object-position: center;
+    object-fit: cover;
+    width: 150px;
+    height: 150px;
+    border-radius: 999px;
+    vertical-align: middle;
+  }
