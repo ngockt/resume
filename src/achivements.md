@@ -1,0 +1,3 @@
+- MEXT scholarship
+- HUST Encouragement scholarship
+- Promote to Sub-leader of AI team

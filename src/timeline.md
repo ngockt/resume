@@ -1,0 +1,13 @@
+- Join HUST
+- Take a break to study english
+- Go back to HUST
+- Receive MEXT scholarship to study in Japan
+- Graduate, BS of Computer Science
+- IoT Intern at Lumi
+- Software Engineer (C++) at LG
+- IoT/AI Engineer at Panasonic
+- Take a brake to study AI
+- AI Researcher at Asila
+- AI Engineer at Eastgate
+- Joining EK team at Eastgate
+- Promoted to AI subleader
