@@ -1,4 +1,5 @@
-# Experience Over
-- make presale proposal
+# Experience Overview
+- make pre-sale proposal
 - do interview
-- propose solution
+- propose solutions
+- Machine Learning system design

@@ -1,3 +1,3 @@
-- MEXT scholarship
-- HUST Encouragement scholarship
-- Promote to Sub-leader of AI team
+- Promote to Sub-leader of AI team, March 2022
+- HUST Encouragement scholarship, 2015
+- MEXT scholarship, Sep 2017
