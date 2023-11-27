@@ -8,6 +8,7 @@
   - [Description:](#description-1)
   - [Challenge](#challenge-1)
   - [Tasks](#tasks-1)
+- [TCSA](#tcsa)
 
 
 # AI Camera Retrain System
@@ -36,3 +37,6 @@ Mar 2023 -> Aug 20203
 - Segmentation mask -> polygon 
 - Convert location to polygon format
 - Send to PLC (Program Logic Control)
+
+# TCSA
+ - promt to 
